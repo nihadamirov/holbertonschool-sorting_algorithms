@@ -4,7 +4,7 @@
 /**
  * bubble_sort - main func
  * @array: array
- * @size_t: size of array
+ * @size: size of array
 */
 void bubble_sort(int *array, size_t size)
 {
